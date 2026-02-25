@@ -20,7 +20,7 @@ This project showcases how I plan and track a manufacturing capital equipment pr
 
 ## Artifacts
 ### 1) Project Plan Template (Excel)
--  [View Excel Project Plan](./data/Manufacturing_Project_Simulated.xlsx) 
+-  [View Excel Project Plan](Manufacturing-Project-Simulation.xlsx) 
 - Columns included:
   - Task ID, Task Name, Phase, Owner, Start/End Dates, Duration, Predecessors
   - % Complete, Status, Budget
