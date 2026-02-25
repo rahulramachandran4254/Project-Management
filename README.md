@@ -46,25 +46,18 @@ This project showcases how I plan and track a manufacturing capital equipment pr
 
 ---
 
-## Metrics (Portfolio)
-- **12-week plan** with **25+ trackable tasks** (template supports easy scaling)
+## Metrics
+- **12-week plan** with **25+ trackable tasks**
 - **Milestone-based tracking** (Kickoff, RFQ Complete, PO Release, FAT, SAT, Closeout)
-- **Dependency logic** to reflect real manufacturing constraints
+- **Dependency logic** - to reflect real manufacturing constraints
 
 ---
 
-## How This Maps to Manufacturing Project Operations Work
+## How This Maps to Manufacturing Project Operations Work?
 - Cross-functional coordination (Eng, Quality, Supplier, Procurement)
 - Schedule management with dependencies + critical path awareness
 - Budget visibility + capex tracking placeholders
 - Execution governance: milestones, deliverables, and status reporting
-
----
-
-## How to Reuse
-1. Download the Excel template from `/data`
-2. Import into Smartsheet (or use directly in Excel)
-3. Add owners, dates, predecessor logic, and update status weekly
 
 ---
 
