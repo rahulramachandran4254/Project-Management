@@ -26,8 +26,11 @@ This project showcases how I plan and track a manufacturing capital equipment pr
   - % Complete, Status, Budget
 
 ### 2) Smartsheet Screenshots
-- ``
-- `screenshots/smartsheet_gantt_chart.png`
+### 📋 Project Overview
+![Project Overview](Project_Overview.png)
+
+### 📊 Gantt Chart Timeline
+![Gantt Chart](Project_Ghantt_Chart_timeline.png)
 
 > Note: Screenshots reflect the same structure as the Excel template, implemented in Smartsheet to show schedule + Gantt tracking.
 
@@ -65,7 +68,7 @@ This project showcases how I plan and track a manufacturing capital equipment pr
 
 ---
 
-# Project Charter (Portfolio – Classroom Simulation)
+# Project Charter
 
 ## Project
 Capital Equipment Deployment for a Manufacturing Line
