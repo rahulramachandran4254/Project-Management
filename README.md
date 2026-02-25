@@ -26,7 +26,7 @@ This project showcases how I plan and track a manufacturing capital equipment pr
   - % Complete, Status, Budget
 
 ### 2) Smartsheet Screenshots
-- `screenshots/smartsheet_project_sheet.png`
+- ``
 - `screenshots/smartsheet_gantt_chart.png`
 
 > Note: Screenshots reflect the same structure as the Excel template, implemented in Smartsheet to show schedule + Gantt tracking.
@@ -65,7 +65,50 @@ This project showcases how I plan and track a manufacturing capital equipment pr
 
 ---
 
-## Contact
-If you'd like to discuss how I approach manufacturing program execution and operational rigor:
-- LinkedIn: (add your link)
-- Email: (optional)
+# Project Charter (Portfolio – Classroom Simulation)
+
+## Project
+Capital Equipment Deployment for a Manufacturing Line
+
+## Objective
+Deploy and validate new capital equipment to improve throughput, quality, and line readiness.
+
+## Scope
+- RFQ → Supplier selection → PO → Build → FAT → Install → SAT → Closeout
+- Schedule, budget tracking, milestones, and dependency management
+
+## Out of Scope
+- Actual supplier contracts, proprietary specs, and real company data
+
+## Key Stakeholders
+- Manufacturing Engineering
+- Quality Engineering
+- Procurement / Supply Chain
+- Supplier / Field Service
+- Project Operations (PM)
+
+## Deliverables
+- Project plan with dependencies and milestones
+- FAT/SAT checklist readiness gates
+- Closeout report (lessons learned template)
+
+## Risks (examples)
+- Supplier lead time slip
+- Test failures at FAT/SAT
+- Install window constraints
+- BOM/spec change impacts
+
+## Success Criteria
+- On-time milestone completion
+- FAT/SAT pass with documented actions
+- Smooth handoff to operations with minimal downtime
+
+---
+
+# Risk Register Template
+
+| Risk ID | Risk | Impact | Probability | Owner | Mitigation | Trigger | Status |
+|---|---|---|---|---|---|---|---|
+| R1 | Supplier lead time slip | High | Med | SCM | Weekly supplier check-ins; buffer in schedule | Missed interim build milestone | Open |
+| R2 | FAT failure | High | Low/Med | QE | Pre-FAT checklist; test plan review | Failure during run-off | Open |
+| R3 | Install window limited | Med | Med | MFG Eng | Coordinate line downtime early | Ops schedule conflict | Open |
